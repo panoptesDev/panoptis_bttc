@@ -1,4 +1,4 @@
-## Bttc
+## Panoptis
 
 Official Golang implementation of the PANO protocol
 
